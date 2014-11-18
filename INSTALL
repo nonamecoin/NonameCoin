@@ -1,0 +1,9 @@
+Building NonameCoin
+
+See doc/readme-qt.rst for instructions on building NonameCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NonameCoin.
+
+See doc/build-*.txt for instructions on building NonameCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of NonameCoin.
